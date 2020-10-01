@@ -5,7 +5,8 @@
 install python plugins
 py -m pip install PLUGINS
 
-trial phone number +12058983132
+Text from phone number +12058983132
+num = aKbvdPhJL_6pkimm0Gy-xXC17XnB2YUcnFh3JPyg
 ACCOUNT SID ACeXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 AUTH TOKEN XXXXXXXXXXXXXXXXXXXXXXXXXX
 
